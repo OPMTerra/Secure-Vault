@@ -4,6 +4,7 @@
 *.bin
 *.vault
 *.dec
+*.txt
 .vscode/
 bin/
 build/
